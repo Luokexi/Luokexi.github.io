@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[第一个测试文章]]></title>
-    <url>%2F2019%2F03%2F21%2F%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[一级标题12345Class HelloWorld&#123; public static void main(String[] args)&#123; System.println.out("HelloWorld."); &#125;&#125;]]></content>
+    <title><![CDATA[sharePic]]></title>
+    <url>%2F2019%2F03%2F22%2FsharePic%2F</url>
+    <content type="text"><![CDATA[图床https://sm.ms/ 用hexo写博客, 上传图片是个问题哦. https://i.loli.net/2019/03/22/5c94af97b2c2d.png]]></content>
+      <categories>
+        <category>资源</category>
+      </categories>
+      <tags>
+        <tag>图床</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[文章的分类与标签的区别]]></title>
+    <url>%2F2019%2F03%2F22%2F%E6%96%87%E7%AB%A0%E7%9A%84%E5%88%86%E7%B1%BB%E4%B8%8E%E6%A0%87%E7%AD%BE%E7%9A%84%E5%8C%BA%E5%88%AB%2F</url>
+    <content type="text"><![CDATA[文章的分类与标签的区别定义分类(categories): 写好文章给文章划分类别. 标签(tags): 相当于文章的关键字和索引, 指出一篇文章中的重点内容或者特色. 你写一篇叙事文章, 给它的划分就是叙事的, 但是你在里面有不仅仅只有叙事, 你可能联想到某些其他的内容, 这里想到的其他内容可以化成一个标签. 生活中我们可以把车辆划分为 自行车, 汽车, 摩托车几种分类. 而同时可以给不同的车. 贴上进口车, 国产车, 男式, 女式, 等等. 一定程度上标签可以替代分类. 表示范围分类: 针对当前作者的博客 标签: 针对博客网站 点击标签显示出该作者所有博客带有该标签的文章. 差别 文章可以有多个标签, 但只能从属于一类 文章写完以后, 划分出标签 标签 可以说是你这篇文章涉及到其他内容的一条”纽带”.]]></content>
+      <categories>
+        <category>概念</category>
+      </categories>
+      <tags>
+        <tag>文章分类</tag>
+        <tag>文章标签</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F03%2F21%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <url>%2F2019%2F03%2F21%2FHexo%E5%85%A5%E9%97%A8%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start(快速入门)Create a new post (创建一篇新 文章)1$ hexo new "My New Post" More info: Writing Run server (运行在本地)1$ hexo server More info: Server Generate static files (生成静态文件)1$ hexo generate More info: Generating Deploy to remote sites (部署到远程站点)1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>Hexo入门</category>
+      </categories>
+      <tags>
+        <tag>快速入门</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第一个测试文章]]></title>
+    <url>%2F2019%2F03%2F21%2FHelloWorld%2F</url>
+    <content type="text"><![CDATA[你好, 世界12345Class HelloWorld&#123; public static void main(String[] args)&#123; System.println.out("HelloWorld."); &#125;&#125; 这是一个测试 给文章添加分类 当前文件路径: F:\blog\source\_posts\第一个测试文章.md 当前文件 指定内容 1234title: 第一个测试文章date: 2019-03-21 11:44:08tags: categories: 测试 我期待的这篇文章应该在 测试 分类下.]]></content>
+      <categories>
+        <category>你好, 世界</category>
+      </categories>
+      <tags>
+        <tag>HelloWorld</tag>
+      </tags>
   </entry>
 </search>
