@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[instanceOf用法]]></title>
+    <url>%2F2019%2F03%2F23%2FinstanceOf%E7%94%A8%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[instanceof二元操作符 作用: 判断 instanceof 左边的对象是否为 instanceof 右边类的实例 instanceof 通过返回一个布尔值来指出，这个对象是否是这个特定类或者是它的子类的一个实例。 用法：result = object instanceof class参数：Result：布尔类型。Object：必选项。任意对象表达式。Class：必选项。任意已定义的对象类。说明： 如果 object 是 class 的一个实例，则 instanceof 运算符返回 true。如果 object 不是指定类的一个实例，或者 object 是 null，则返回 false。 作者：langya2007来源：CSDN原文：https://blog.csdn.net/liranke/article/details/5574791版权声明：本文为博主原创文章，转载请附上博文链接！]]></content>
+      <categories>
+        <category>Java基础</category>
+      </categories>
+      <tags>
+        <tag>instanceOf</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[sharePic]]></title>
     <url>%2F2019%2F03%2F22%2FsharePic%2F</url>
     <content type="text"><![CDATA[图床https://sm.ms/ 用hexo写博客, 上传图片是个问题哦. https://i.loli.net/2019/03/22/5c94af97b2c2d.png]]></content>
