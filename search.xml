@@ -1,8 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[instanceOf用法]]></title>
-    <url>%2F2019%2F03%2F23%2FinstanceOf%E7%94%A8%E6%B3%95%2F</url>
+    <title><![CDATA[知乎职场生存]]></title>
+    <url>%2F2019%2F03%2F31%2F%E7%9F%A5%E4%B9%8E%E8%81%8C%E5%9C%BA%E7%94%9F%E5%AD%98%2F</url>
+    <content type="text"><![CDATA[职场生存与领导沟通的注意点 想尽办法用自己的时间来节省领导的时间 领导就是领导, 对外场合, 对内场合, 工作做的好都是因为领导 不要给领导提出难题, 有问题私下解决 公司里决策是领导的, 认清自己的位置 察言观色 适应领导的脾气和工作方法, 总结自己的解决方案 位置决定行为, 你所处的位置决定了你能干的事 如何与特别忙的上级沟通? 非常紧急直接打, 短信约时间, 说明内容 给上级写邮件汇报工作, 重点, 主次分明 离职原因: 好朋友在南京, 不来那就有遗憾了. 发展更好些. 选择工作考虑的点 工资 不低于行业标准 每年有 40% 到 50%的涨薪 不要让工资成为决定进一家公司的唯一原因, 职业发展 工作环境. 单纯, 没有勾心斗角 你需要付出什么? 工作时间 身心 思维 锻炼出看家本领 培养能力, 能力, 能力 不断面对挑战, 越来越有意思 工作本身带来的纯粹的快乐 面试: 你最大的缺点是什么? 主要看 性格是否适合公司文化. 回答要能 体现到你能抓住职位的关键技巧, 待人待物太客气, 思想比较保守. 喜欢追求细节, 不会如何拒绝别人的要求. 计算的时候一定要 多算几遍 然后重点— 正在改正. 如何与比你大一辈的同事处理好关系 不要装 不懂就问, 诚恳的问, 仔细的听, 少表达. 回答给别人感觉, 你想获得自己所知以外的内容. 努力实现自己的价值. 注意生活上的小事, 观察别人的喜好, 分享他们尽可能喜欢的东西, 抱着分享的心态, 而不是讨好. 自信,自信,自信, 多微笑, 你怎么看世界, 世界就这么看你. 工作面试谈薪资 如果HR问你期望薪资, 我会先咨询该公司的薪资结构. 必须HR回答这个问题, 我才会回复. 12345福利： 五 险 一 金。 月度： 80% 基本工资 ＋ 20% 绩效 工资 ＋ 餐 补 ＋ 话 补 ＋ 车补 等等。 年度： 12 月 基本 薪资 ＋ N 月 KPI 奖金 ＋ M 月 年终 奖金（ M 和 N 不一定 都有， 而且 多数 企业 只 讲个 范围）。涨 薪： 一年两次 调薪 考核， 时间 是 每年 的 4 月 和 10 月。 但是 主要 依据 KPI 完成 情况， 不保 证人 人 普调。 期权、 股票： 如有 会 详细 说明 计划。 说 会有 但没 有 明确 计划 的， 都是 忽悠。 可以看谈的情况借机了解下 晋升制度 培训制度 休假制度 考勤制度 加班/值班制度 其他福利: 组织旅游 HR会让你说你的期望, 你结合前一份工作的薪资, 涨幅, 入职的价值, 与岗位的匹配度, 以及个人在这个岗位上火的额外成长. 谈薪资手里有其他公司的offer做竞争更会刺激当前公司. 谈这个问题 规避矛盾 – 说出薪资的数额, 把问题核心转到公司薪酬福利制度上 如果HR拒绝提供薪酬结构, 说明这个公司在任何方面都不会靠谱直接果断走人. 面试中重要的是 诚实和尊重. 大学生和职场脱节在哪里? 学校里的问题 正确地 认识 问题， 知乎. 知乎周刊·职场生存狂 (Kindle位置359). . Kindle 版本.]]></content>
+      <categories>
+        <category>职场生存</category>
+      </categories>
+      <tags>
+        <tag>职场小白</tag>
+        <tag>大学生</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Spring Security]]></title>
+    <url>%2F2019%2F03%2F28%2FSpring-Security%2F</url>
+    <content type="text"><![CDATA[1.Spring Security简介Spring Security是一个能够为基于Spring的企业应用系统提供声明式的安全访问控制解决方案的安全框架。它提供了一组可以在Spring应用上下文中配置的Bean，充分利用了Spring IoC，DI（控制反转Inversion of Control ,DI:Dependency Injection 依赖注入）和AOP（面向切面编程）功能，为应用系统提供声明式的安全访问控制功能，减少了为企业系统安全控制编写大量重复代码的工作。 过滤器 是代理过滤器 基于 Spring 的企业应用系统提供声明式的安全访问控制解 决方案的安全框架。 创建工程 war形式 引入依赖 spring相关 Spring Security 4.1.0 的 端口 9090 spring的监听器 ContextLoaderListener 入口 SpringSecurityFilterChain 代理类 配置文件 为什么带:beans 前缀 dubbox, context 登录时 出现重定向次数过多 访问路径给它不登陆访问的权限 自己的头信息带 X-CSRF-TOKEN 放在CSRF 拦截 CSRF(跨站请求伪造)动态token 不可自行更改 JSP页面 默认开启 html 关闭该功能]]></content>
+      <categories>
+        <category>Spring家族</category>
+      </categories>
+      <tags>
+        <tag>权限控制框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[日复日]]></title>
+    <url>%2F2019%2F03%2F27%2F%E5%8D%97%E4%BA%AC%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[项目总结]]></title>
+    <url>%2F2019%2F03%2F24%2F%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[项目最大特点: 商家通过申请平台入驻 分为三大子系统 网站的前台, 运营商后台, 商家管理后台 网站前台 技术涉及 广告 导航 搜索 商品详情页 设计 freemarker 购物车 涉及 购物车分组 结算 付款方式 提交订单 出现二维码 运营商后台涉及 商家通过审核 商家管理后台 涉及 面向服务的架构 SOA 每个方面的业务逻辑功能 独立的应用 分别部署在不同的服务器 页面与逻辑进行分离 实际上是分布式架构 每一个橙色小方块 都是一个工程 都是独立部署的应用 橙色部分 只包括 controller 和 页面 没有业务逻辑 dubbox是 SOA架构解决方案的一种 绿色 部分 dubbox 来调用 服务层(service) 这种架构web层不直接依赖于服务层 而是通过网络去调用 dubbox做技术支持 橙色部分和 蓝色部分 的关系是多对多, 一对多 等关系 数据库访问层 数据库分片 数据库集群 消息中间件 ActiveMQ 异步调用 完成验证短信的 邮件 静态页面生成 搜索模块 solr集群 规格和表结构 商品明细 sku 和 spu 的关系 iphoneX 是一个 商品 sku 它有很多颜色 规格 spu 前后端编程架构 通过AJAX 和后端交互 SSM+dubbox Dubbox框架 分布式框架 SOA架构的 一个解决方案 HSF 与 dubbox 冲突. 阿里不在维护dubbo, 当前当当 维护dubbo 并在此基础上, 出现了 dubbox dubbox工作流程 注册中心 服务提供方(service层) 服务消费方 (web层) 服务提供方 将地址 告诉注册中心 注册中心存在着 地址 对应着 服务 消费方连接注册中心 调用订阅服务 dubbo monitor 监控 服务方, 调用方 服务消费方 (租客) 注册中心(中介) 服务提供方(房东) 注册中心 使用什么? Zookeeper 做注册中心 负责服务地址的注册和查找 服务提供者 和 服务消费者 在启动的时候与服务中心交互 调用方 通过注册中心 找到服务提供方 Linux 改名 mv 要改的名字 运行 ./zkServer.sh start dubbox jar包 并没有上传到 中央仓库 需要手动安装到 本地仓库 离线约束 演示 小demo 因为 每个服务都是部署到单独的服务器里 所以选择 war 形式打包 * 使用@Service 注解是 dubbox的注解 否则不会被注册中心查到 appliactionContext.xml 中配置 注册中心 dubbo : application 当前 应用名 dubbo : registry address =”注册中心地址” dubbo : annotation 包扫描 pinyougou-server Linux 终端下 su root 输入密码 cd ~ 进入目录 项目搭建创建Maven工程pinyougou-parent （POM） ， groupId 为com.pinyougou artifactId 为pinyougou-parent , 在pom.xml中添加锁定版本信息dependencyManagement与pluginManagement 新建下面几个模块 pinyougou-common 通用模块层 pinyougou-pojo 实体类 pinyougou-dao 持久层 数据访问层 ———————- 依赖pinyougou-pojo pinyougou-sellergoods-interface 商家商品服务接口 pinyougou-sellergoods-service 商家商品服务接口实现 (服务的提供方) pinyougou-shop-web 商家管理后台 war pinyougou-manager-web 运营商管理后台 war 商家接口类 jar Controller中的注解 123import org.springframework.web.bind.annotation.RestController;import org.springframework.web.bind.annotation.RequestMapping;import com.alibaba.dubbo.config.annotation.Reference; Day02 前端引入分页需要的文件 pagination.js 分页控件加载时 触发 查询所有信息的方法 Day06 商品一级, 二级,三级 模版分类 arg1 : 当arg0改变的时候出发的方法 变量监控 $scope.$watch(‘要监控的变量’, function(new )) ; 脏读 读到未提交的数据 虚读 不可重复读 两次读到的数据不一致 幻读 两次读取的数量不一致]]></content>
+      <categories>
+        <category>项目总结</category>
+      </categories>
+      <tags>
+        <tag>电商项目</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Spring]]></title>
+    <url>%2F2019%2F03%2F23%2FSpring%2F</url>
+    <content type="text"><![CDATA[Spring的定义一站式Java框架 核心 IoC(控制反转), AOP(面向切面编程) , 便于整合第三方框架 Spring特点 非侵入式 方便集成 方便解耦 Spring的体系结构 Core Contraniner : IoC IoC 基础上提供了AOP Spring 是容器, 底层是工厂 我们通过Spring来创建对象 结合JDBC分析程序中出现的问题 新建一手Maven项目 pom.xml 引入坐标 补全目录 java, resources 写jdbc的Demo 1234567891011121314151617181920 public static void main(String[] args) throws Exception&#123; //1.注册驱动// DriverManager.registerDriver(new com.mysql.jdbc.Driver()); Class.forName("com.mysql.jdbc.Driver"); //2.获取连接 Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/eesy","root","1234"); //3.获取操作数据库的预处理对象 PreparedStatement pstm = conn.prepareStatement("select * from account"); //4.执行SQL，得到结果集 ResultSet rs = pstm.executeQuery(); //5.遍历结果集 while(rs.next())&#123; System.out.println(rs.getString("name")); &#125; //6.释放资源 rs.close(); pstm.close(); conn.close(); &#125; 发现一个问题 如果没有mysql的驱动 该程序就不能运行 这里就是 程序间的耦合 现在 解决类之间的依赖关系 , 降低类之间的依赖关系, 也就是 解耦 实际开发中做到 编译期不依赖, 运行时才依赖. 解耦的思路 : 使用反射来创建对象, 避免使用new 通过读取配置文件来获取创建对象的全限定类名 编写工厂类和配置文件完成解耦Bean: 可重用组件 创建service和dao对象 JavaBean: Java编写的可重用组件 实体类: 通常与数据库有直接联系 搭建Java项目 标准三层架构 写 bean.properties 将 dao , service 以 key = value 形式 编写 编写 BeanFactory 读取 bean.properties 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263public class BeanFactory &#123; //定义一个Properties对象 private static Properties props; //定义一个Map,用于存放我们要创建的对象。我们把它称之为容器 private static Map&lt;String,Object&gt; beans; //使用静态代码块为Properties对象赋值 static &#123; try &#123; //实例化对象 props = new Properties(); // 不要使用 相对路径和磁盘绝对路径 使用当前类的类加载器获取配置文件 //获取properties文件的流对象 InputStream in = BeanFactory.class.getClassLoader().getResourceAsStream("bean.properties"); props.load(in); //实例化容器 beans = new HashMap&lt;String,Object&gt;(); //取出配置文件中所有的Key Enumeration keys = props.keys(); //遍历枚举 while (keys.hasMoreElements())&#123; //取出每个Key String key = keys.nextElement().toString(); //根据key获取value String beanPath = props.getProperty(key); //反射创建对象 Object value = Class.forName(beanPath).newInstance(); //把key和value存入容器中 beans.put(key,value); &#125; &#125;catch(Exception e)&#123; throw new ExceptionInInitializerError("初始化properties失败！"); &#125; &#125; /** * 根据bean的名称获取对象 * @param beanName * @return */ public static Object getBean(String beanName)&#123; return beans.get(beanName); &#125; /** * 根据Bean的名称获取bean对象 * @param beanName * @return public static Object getBean(String beanName)&#123; Object bean = null; try &#123; String beanPath = props.getProperty(beanName);// System.out.println(beanPath); bean = Class.forName(beanPath).newInstance();//每次都会调用默认构造函数创建对象 所以多例对象 怎么能保证对象的唯一性? 对象创建完毕 马上存起来 &#125;catch (Exception e)&#123; e.printStackTrace(); &#125; return bean; &#125;*/&#125;]]></content>
+      <categories>
+        <category>Spring</category>
+      </categories>
+      <tags>
+        <tag>Spring</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[instanceof用法]]></title>
+    <url>%2F2019%2F03%2F23%2Finstanceof%E7%94%A8%E6%B3%95%2F</url>
     <content type="text"><![CDATA[instanceof二元操作符 作用: 判断 instanceof 左边的对象是否为 instanceof 右边类的实例 instanceof 通过返回一个布尔值来指出，这个对象是否是这个特定类或者是它的子类的一个实例。 用法：result = object instanceof class参数：Result：布尔类型。Object：必选项。任意对象表达式。Class：必选项。任意已定义的对象类。说明： 如果 object 是 class 的一个实例，则 instanceof 运算符返回 true。如果 object 不是指定类的一个实例，或者 object 是 null，则返回 false。 作者：langya2007来源：CSDN原文：https://blog.csdn.net/liranke/article/details/5574791版权声明：本文为博主原创文章，转载请附上博文链接！]]></content>
       <categories>
         <category>Java基础</category>
@@ -14,7 +70,7 @@
   <entry>
     <title><![CDATA[sharePic]]></title>
     <url>%2F2019%2F03%2F22%2FsharePic%2F</url>
-    <content type="text"><![CDATA[图床https://sm.ms/ 用hexo写博客, 上传图片是个问题哦. https://i.loli.net/2019/03/22/5c94af97b2c2d.png]]></content>
+    <content type="text"><![CDATA[图床https://sm.ms/ 用hexo写博客, 上传图片是个问题哦. https://i.loli.net/2019/03/22/5c94af97b2c2d.png 两个 应用协议, 主机地址(域名), 端口 其中有一个不一样就是跨域了. 12 JS跨域]]></content>
       <categories>
         <category>资源</category>
       </categories>
